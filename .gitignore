@@ -98,3 +98,6 @@ all.config
 
 # touch fw hex file
 *.fw.ihex
+
+# build
+out
